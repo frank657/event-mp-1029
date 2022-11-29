@@ -1,6 +1,6 @@
 // pages/events/index/index.js
 import event from '@codesmiths/event';
-
+// npm i @codesmiths/event
 Page({
 
   /**
